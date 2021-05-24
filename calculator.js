@@ -1,4 +1,4 @@
-const prompt = require("prompt-sync")(); // Please don't touch me :)
+//const prompt = require("prompt-sync")(); // Please don't touch me :)
 
 // The prompt method allows us to take an input from the user.
 // Run the code to see how to use prompt.
